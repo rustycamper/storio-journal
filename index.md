@@ -22,6 +22,7 @@ Did you know Storio supports Markdown syntax?
 
 ### Images
 ![Darwin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Charles_Darwin_photograph_by_Julia_Margaret_Cameron%2C_1868.jpg/181px-Charles_Darwin_photograph_by_Julia_Margaret_Cameron%2C_1868.jpg "Darwin")
+
 *Charles Darwin*
 
 ### Lists

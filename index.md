@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+### Welcome to Storio
+Your own **private**, **free**, **no-ads**, community supported journal.
 
-You can use the [editor on GitHub](https://github.com/rustycamper/storio-journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+And since it's a community effort, you can influence which features get implemented next. Enjoy!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Did you know Storio supports Markdown syntax?
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Markdown
+### Here's a quick reference and showcase:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+### Headers
 # Header 1
+```# Header 1```
 ## Header 2
+```## Header 2```
 ### Header 3
+```### Header 3```
 
-- Bulleted
-- List
+### Emphasis
+**bold** ```**bold**```
+*italic* ```*italic*```
 
-1. Numbered
-2. List
+### Images
+![Darwin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Charles_Darwin_photograph_by_Julia_Margaret_Cameron%2C_1868.jpg/181px-Charles_Darwin_photograph_by_Julia_Margaret_Cameron%2C_1868.jpg "Darwin")
+*Charles Darwin*
 
-**Bold** and _Italic_ and `Code` text
+### Lists
+1. Ordered list item ```1. Ordered item```
+* Unordered list item ```* Unordered item```
 
-[Link](url) and ![Image](src)
-```
+### Code syntax
+```Code syntax highlighting```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Blockquotes
+> Quotes are a handy feature ```> Quotes are handy```
 
-### Jekyll Themes
+### Todo Lists
+- [ ] ```- [ ]```
+- [X] ```- [X]```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rustycamper/storio-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### HTML
+<b>Bold</b> ```<b>Bold</b>```
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+And more... See [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

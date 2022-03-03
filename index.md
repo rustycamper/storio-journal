@@ -1,5 +1,5 @@
 ### Welcome to Storio
-Your own **private**, **free**, **no-ads**, community supported journal.
+Your own **private**, **no-ads**, personal journal and diary.
 
 And since it's a community effort, you can influence which features get implemented next. Enjoy!
 
